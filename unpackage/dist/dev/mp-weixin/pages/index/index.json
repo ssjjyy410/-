@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "list-item": "/components/index/listItem",
+    "tab-bar": "/components/index/tabBar",
+    "load-more": "/components/common/loadMore",
+    "nothing": "/components/common/nothing"
+  }
+}
